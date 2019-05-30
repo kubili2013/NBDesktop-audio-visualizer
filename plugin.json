@@ -1,0 +1,29 @@
+{
+    "name": "音频可视化",
+    "desc": "音频可视化插件，根据设置的音乐列表可以在桌面跳动。",
+    "type": "desktop-widget",
+    "author": "kubili2013",
+    "main": "index.js",
+    "setter": "plugin.js",
+    "image": "logo.jpg",
+    "url": "",
+    "setting": {
+        "music": [
+            {
+                "artist": "",
+                "song": "Taylor Swift - Beautiful Eyes.mp3",
+                "url": "file:///E:/music/Taylor Swift - Beautiful Eyes.mp3"
+            },
+            {
+                "artist": "",
+                "song": "Taylor Swift - I Knew You Were Trouble.mp3",
+                "url": "file:///E:/music/Taylor Swift - I Knew You Were Trouble.mp3"
+            },
+            {
+                "artist": "",
+                "song": "Taylor Swift - I'm Only Me When I'm With You.mp3",
+                "url": "file:///E:/music/Taylor Swift - I'm Only Me When I'm With You.mp3"
+            }
+        ]
+    }
+}
